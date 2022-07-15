@@ -1,7 +1,7 @@
 
 # pinglist
 
-A bash tool that utilizes ping to check the status of a list of IPs/domain names.
+A bash tool that utilizes ping to check the status of a list of IPs/domain names in a file.
 
 ## Features
 
